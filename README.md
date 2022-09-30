@@ -1,2 +1,2 @@
-# DeepRme
+# CNNArginineMe
 Arginine methylation research
